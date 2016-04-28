@@ -1,10 +1,6 @@
 {
-    "wallpapers": {
-        "category": [
-            {
-                "name": "Wallpaper",
-                "wallpaper": [
-                    {
+  "wallpapers": [
+    {
                         "author": "vanessaem",
                         "url": "http://i.imgur.com/WQCcC9M.jpg",
                         "thumbUrl": "http://i.imgur.com/WQCcC9Mm.jpg",
@@ -63,9 +59,6 @@
                         "url": "http://i.imgur.com/JuSVpDn.jpg",
                         "thumbUrl": "http://i.imgur.com/JuSVpDnm.jpg",
                         "name": "wall10"                    
-                    }
-                ]
-            }
-        ]
     }
+  ]
 }
